@@ -1,0 +1,44 @@
+
+nav {
+    border: 2px solid black;
+    width: 100%;
+    height: 70px;
+}
+
+nav #inputSection{
+    display: flex;
+
+    width:57%;
+    justify-content: start;
+    align-items: center;
+    gap:10px;
+    margin-left: 80px;
+}
+nav #inputSection>.input{
+    width: 100%;
+    border:2px solid red;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    input{
+        width:60%;
+        height:65px;
+        outline:0px;
+    }
+
+}
+nav #inputSection>.input.searchicon{
+    font-size: 50px;
+    background-image: "https://uxwing.com/wp-content/themes/uxwing/download/user-interface/search-magnifying-glass-icon.png";
+}
+nav #login{
+    border:2px solid black; 
+}
+nav .logo {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg");
+    height: 70px;
+    width: 120px;
+    background-size: 70px 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

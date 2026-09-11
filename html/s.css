@@ -1,0 +1,18 @@
+ @font-face {
+    font-family: "Playwrite DE LA Guides";
+    src: url("./Oswald/Oswald-VariableFont_wght.ttf");
+}
+
+p {
+    font-family: "Playwrite DE LA Guides";
+} 
+/* @font-face {
+    font-family: "Playwrite DE LA Guides";
+    src: url("./Playwrite_DE_LA_Guides/PlaywriteDELAGuides-Regular.ttf");
+}
+
+p {
+    font-family: "Playwrite DE LA Guides";
+    color:orange
+} */
+

@@ -1,0 +1,50 @@
+input[name="name"]:hover {
+    background-color: #fff3e0;
+    border-color: blue;
+}
+input[name="name"]:focus {
+    border-color: red;
+
+}
+input[name="PhoneNumber"]:hover{
+    background-color: aqua;
+    border-color: gray;
+}
+input[name="PhoneNumber"]:focus{
+    border-color: orange;
+}
+input[name="email"]:hover{
+    background-color: brown ;
+    border-color: darkgreen;
+}
+input[name="email"]:focus{
+    border-color:aliceblue;
+}
+input[name="password"]:hover{
+    background-color: brown ;
+    border-color: darkgreen;
+}
+input[name="password"]:focus{
+    border-color:aliceblue;
+}
+input[name="age"]:hover{
+    background-color: brown ;
+    border-color: darkgreen;
+}
+input[name="age"]:focus{
+    border-color:aliceblue;
+}
+input[name="email"]:hover{
+    background-color: brown ;
+    border-color: darkgreen;
+}
+input[name="email"]:focus{
+    border-color:aliceblue;
+}
+input[name="submit"]:hover{
+    background-color: brown ;
+    border-color: darkgreen;
+}
+
+
+
